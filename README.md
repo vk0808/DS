@@ -1,1 +1,1 @@
-#DS TakenMind Internship
+#DS Projects
